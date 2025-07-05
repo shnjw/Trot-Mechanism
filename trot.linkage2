@@ -1,0 +1,582 @@
+<linkage2>
+	<program zoom="0.455166" xoffset="-26" yoffset="617" scalefactor="1.000000" units="Millimeters" backgroundtransparency="0.000000" backgroundscale="1.000000" xgrid="" ygrid=""/>
+	<connector id="1" selected="false" layer="16" x="-377.952756" y="-37.795276" anchor="true" input="true" rpm="15.000000" color="12632064" usercolor="false"/>
+	<connector id="2" selected="false" layer="16" x="-438.076450" y="-216.952226" draw="true" color="32768" usercolor="false"/>
+	<connector id="4" selected="false" layer="16" x="150.528179" y="-35.827974" anchor="true" color="6854344" usercolor="false"/>
+	<connector id="5" selected="false" layer="16" x="-214.091552" y="63.674471" draw="true" color="11012476" usercolor="false"/>
+	<connector id="0" selected="false" layer="16" x="680.314961" y="-27.669330" anchor="true" input="true" rpm="15.000000" color="16711680" usercolor="false"/>
+	<connector id="3" selected="false" layer="16" x="639.274990" y="-78.899021" draw="true" color="16711808" usercolor="false"/>
+	<connector id="6" selected="false" layer="16" x="1247.244094" y="-37.795276" anchor="true" color="16744448" usercolor="false"/>
+	<connector id="7" selected="false" layer="16" x="907.086614" y="-37.795276" anchor="true" color="11272364" usercolor="false"/>
+	<connector id="9" selected="false" layer="16" x="1012.252753" y="-37.795276" draw="true" slider="true" color="13123282" usercolor="false">
+		<slidelimit id="6"/>
+		<slidelimit id="7"/>
+	</connector>
+	<connector id="8" selected="false" layer="16" x="2921.781682" y="566.929134" anchor="true" color="8439808" usercolor="false"/>
+	<connector id="10" selected="false" layer="16" x="2732.805304" y="566.929134" anchor="true" input="true" rpm="15.000000" color="6324424" usercolor="false"/>
+	<connector id="11" selected="false" layer="16" x="2683.712062" y="21.342286" anchor="true" input="true" rpm="15.000000" color="2146336" usercolor="false"/>
+	<connector id="12" selected="false" layer="16" x="3061.664818" y="21.342286" anchor="true" color="223719" usercolor="false"/>
+	<connector id="13" selected="false" layer="16" x="2834.645669" y="-799.971332" anchor="true" input="true" rpm="15.000000" color="13123648" usercolor="false"/>
+	<connector id="14" selected="false" layer="16" x="3023.622047" y="-799.971332" anchor="true" color="4243584" usercolor="false"/>
+	<connector id="17" selected="false" layer="1" x="145.125379" y="-1690.431495" color="13158600" usercolor="false"/>
+	<connector id="18" selected="false" layer="1" x="147.099907" y="-1085.480318" color="13158600" usercolor="false"/>
+	<connector id="19" selected="false" layer="1" x="409.692308" y="-1312.478740" color="13158600" usercolor="false"/>
+	<connector id="20" selected="false" layer="1" x="409.692308" y="-1690.431495" color="13158600" usercolor="false"/>
+	<connector id="15" selected="false" layer="16" x="409.693228" y="-1312.478740" anchor="true" input="true" rpm="-15.000000" color="8421440" usercolor="false"/>
+	<connector id="16" selected="false" layer="16" x="537.241365" y="-1231.320195" draw="true" color="12599551" usercolor="false"/>
+	<connector id="26" selected="false" layer="16" x="454.538132" y="-1312.480307" color="16711808" usercolor="false"/>
+	<connector id="23" selected="false" layer="16" x="442.988572" y="-1023.250054" color="16711680" usercolor="false"/>
+	<connector id="25" selected="false" layer="16" x="72.648836" y="-1098.726974" color="32768" usercolor="false"/>
+	<connector id="30" selected="false" layer="16" x="147.099907" y="-1085.481885" anchor="true" color="11272364" usercolor="false"/>
+	<connector id="32" selected="false" layer="16" x="118.101522" y="-1322.834646" color="13123282" usercolor="false"/>
+	<connector id="33" selected="false" layer="16" x="130.710743" y="-1395.482736" color="12615935" usercolor="false"/>
+	<connector id="35" selected="false" layer="16" x="324.360737" y="-1624.696408" draw="true" color="223719" usercolor="false"/>
+	<connector id="21" selected="false" layer="1" x="-106.397169" y="-1652.369746" color="13158600" usercolor="false"/>
+	<connector id="22" selected="false" layer="1" x="572.381102" y="-1652.369746" color="13158600" usercolor="false"/>
+	<connector id="24" selected="false" layer="1" x="429.721241" y="-992.984365" color="13158600" usercolor="false"/>
+	<connector id="27" selected="false" layer="1" x="537.241365" y="-1231.320195" color="13158600" usercolor="false"/>
+	<connector id="28" selected="false" layer="1" x="377.952756" y="-1385.936000" color="13158600" usercolor="false"/>
+	<connector id="29" selected="false" layer="1" x="176.866772" y="-2570.078740" color="13158600" usercolor="false"/>
+	<connector id="31" selected="false" layer="1" x="178.841300" y="-1965.127563" color="13158600" usercolor="false"/>
+	<connector id="34" selected="false" layer="1" x="441.433701" y="-2192.125985" color="13158600" usercolor="false"/>
+	<connector id="36" selected="false" layer="1" x="441.433701" y="-2570.078740" color="13158600" usercolor="false"/>
+	<connector id="37" selected="false" layer="16" x="441.433701" y="-2194.261417" anchor="true" input="true" rpm="-15.000000" color="11012476" usercolor="false"/>
+	<connector id="38" selected="false" layer="16" x="318.305197" y="-2281.985129" draw="true" color="16744448" usercolor="false"/>
+	<connector id="39" selected="false" layer="16" x="206.780012" y="-2250.538005" color="12599551" usercolor="false"/>
+	<connector id="40" selected="false" layer="16" x="452.044299" y="-2096.807849" color="13123648" usercolor="false"/>
+	<connector id="41" selected="false" layer="16" x="111.556869" y="-1932.745072" color="8421440" usercolor="false"/>
+	<connector id="42" selected="false" layer="16" x="178.839459" y="-1967.262420" anchor="true" color="13140032" usercolor="false"/>
+	<connector id="43" selected="false" layer="16" x="-61.412707" y="-2082.316864" color="6324288" usercolor="false"/>
+	<connector id="44" selected="false" layer="16" x="-118.526278" y="-2128.951374" color="16711680" usercolor="false"/>
+	<connector id="45" selected="false" layer="16" x="-81.948511" y="-2426.779000" draw="true" color="32768" usercolor="false"/>
+	<connector id="46" selected="false" layer="1" x="604.120654" y="-2534.150281" color="13158600" usercolor="false"/>
+	<connector id="47" selected="false" layer="1" x="461.460793" y="-1874.764900" color="13158600" usercolor="false"/>
+	<connector id="48" selected="false" layer="1" x="568.980917" y="-2113.100730" color="13158600" usercolor="false"/>
+	<connector id="49" selected="false" layer="1" x="409.692308" y="-2267.716535" color="13158600" usercolor="false"/>
+	<connector id="52" selected="false" layer="1" x="-2040.944882" y="-1670.551181" color="13158600" usercolor="false"/>
+	<connector id="53" selected="false" layer="1" x="-2038.970354" y="-1065.600004" color="13158600" usercolor="false"/>
+	<connector id="54" selected="false" layer="1" x="-1776.377953" y="-1292.598426" color="13158600" usercolor="false"/>
+	<connector id="55" selected="false" layer="1" x="-1776.377953" y="-1670.551181" color="13158600" usercolor="false"/>
+	<connector id="57" selected="false" layer="16" x="-1635.798007" y="-1204.374072" draw="true" color="6324288" usercolor="false"/>
+	<connector id="58" selected="false" layer="16" x="-1718.501240" y="-1285.534184" color="13123282" usercolor="false"/>
+	<connector id="59" selected="false" layer="16" x="-1730.050800" y="-996.303931" color="16744448" usercolor="false"/>
+	<connector id="60" selected="false" layer="16" x="-2100.390536" y="-1071.780851" color="8439808" usercolor="false"/>
+	<connector id="61" selected="false" layer="16" x="-2025.939465" y="-1058.535762" anchor="true" color="13123648" usercolor="false"/>
+	<connector id="62" selected="false" layer="16" x="-2054.937850" y="-1295.888523" color="8421440" usercolor="false"/>
+	<connector id="63" selected="false" layer="16" x="-2042.328629" y="-1368.536613" color="12599551" usercolor="false"/>
+	<connector id="64" selected="false" layer="16" x="-1848.678635" y="-1597.750285" draw="true" color="6324424" usercolor="false"/>
+	<connector id="65" selected="false" layer="1" x="-2279.436541" y="-1625.423623" color="13158600" usercolor="false"/>
+	<connector id="66" selected="false" layer="1" x="-1600.658270" y="-1625.423623" color="13158600" usercolor="false"/>
+	<connector id="67" selected="false" layer="1" x="-1743.318131" y="-966.038242" color="13158600" usercolor="false"/>
+	<connector id="68" selected="false" layer="1" x="-1635.798007" y="-1204.374072" color="13158600" usercolor="false"/>
+	<connector id="69" selected="false" layer="1" x="-1795.086616" y="-1358.989877" color="13158600" usercolor="false"/>
+	<connector id="70" selected="false" layer="1" x="-2038.970354" y="-1662.992126" color="13158600" usercolor="false"/>
+	<connector id="71" selected="false" layer="1" x="-2036.995826" y="-1058.040949" color="13158600" usercolor="false"/>
+	<connector id="72" selected="false" layer="1" x="-1774.403425" y="-1285.039371" color="13158600" usercolor="false"/>
+	<connector id="73" selected="false" layer="1" x="-1774.403425" y="-1662.992126" color="13158600" usercolor="false"/>
+	<connector id="75" selected="false" layer="16" x="-1886.473727" y="-1373.258471" draw="true" color="8405120" usercolor="false"/>
+	<connector id="76" selected="false" layer="16" x="-1997.998912" y="-1341.811347" color="6324288" usercolor="false"/>
+	<connector id="77" selected="false" layer="16" x="-1752.734625" y="-1188.081191" color="16711680" usercolor="false"/>
+	<connector id="78" selected="false" layer="16" x="-2093.222055" y="-1024.018414" color="12632064" usercolor="false"/>
+	<connector id="79" selected="false" layer="16" x="-2025.939465" y="-1058.535762" anchor="true" color="32768" usercolor="false"/>
+	<connector id="80" selected="false" layer="16" x="-2266.191631" y="-1173.590206" color="16711808" usercolor="false"/>
+	<connector id="81" selected="false" layer="16" x="-2323.305202" y="-1220.224716" color="6854344" usercolor="false"/>
+	<connector id="82" selected="false" layer="16" x="-2286.727435" y="-1518.052342" draw="true" color="11012476" usercolor="false"/>
+	<connector id="83" selected="false" layer="1" x="-1600.658270" y="-1625.423623" color="13158600" usercolor="false"/>
+	<connector id="84" selected="false" layer="1" x="-1743.318131" y="-966.038242" color="13158600" usercolor="false"/>
+	<connector id="85" selected="false" layer="1" x="-1635.798007" y="-1204.374072" color="13158600" usercolor="false"/>
+	<connector id="86" selected="false" layer="1" x="-1795.086616" y="-1358.989877" color="13158600" usercolor="false"/>
+	<connector id="90" selected="false" layer="16" x="-1511.811024" y="-1204.374072" draw="true" color="2146336" usercolor="false"/>
+	<connector id="91" selected="false" layer="16" x="-1429.107791" y="-1285.534184" color="8405120" usercolor="false"/>
+	<connector id="92" selected="false" layer="16" x="-1417.558231" y="-996.303931" color="6324424" usercolor="false"/>
+	<connector id="93" selected="false" layer="16" x="-1047.218495" y="-1071.780851" color="13140032" usercolor="false"/>
+	<connector id="94" selected="false" layer="16" x="-1121.669566" y="-1058.535762" anchor="true" color="32768" usercolor="false"/>
+	<connector id="95" selected="false" layer="16" x="-1092.671181" y="-1295.888523" color="6854344" usercolor="false"/>
+	<connector id="96" selected="false" layer="16" x="-1105.280402" y="-1368.536613" color="11012476" usercolor="false"/>
+	<connector id="97" selected="false" layer="16" x="-1298.930396" y="-1597.750285" draw="true" color="11272364" usercolor="false"/>
+	<connector id="98" selected="false" layer="1" x="-868.172490" y="-1625.423623" color="13158600" usercolor="false"/>
+	<connector id="99" selected="false" layer="1" x="-1546.950761" y="-1625.423623" color="13158600" usercolor="false"/>
+	<connector id="100" selected="false" layer="1" x="-1404.290900" y="-966.038242" color="13158600" usercolor="false"/>
+	<connector id="101" selected="false" layer="1" x="-1511.811024" y="-1204.374072" color="13158600" usercolor="false"/>
+	<connector id="102" selected="false" layer="1" x="-1352.522415" y="-1358.989877" color="13158600" usercolor="false"/>
+	<connector id="108" selected="false" layer="16" x="-1261.135304" y="-1373.258471" draw="true" color="12615935" usercolor="false"/>
+	<connector id="109" selected="false" layer="16" x="-1149.610119" y="-1341.811347" color="2146336" usercolor="false"/>
+	<connector id="110" selected="false" layer="16" x="-1394.874406" y="-1188.081191" color="223719" usercolor="false"/>
+	<connector id="111" selected="false" layer="16" x="-1054.386976" y="-1024.018414" color="13123648" usercolor="false"/>
+	<connector id="112" selected="false" layer="16" x="-1121.669566" y="-1058.535762" anchor="true" color="4243584" usercolor="false"/>
+	<connector id="113" selected="false" layer="16" x="-881.417400" y="-1173.590206" color="8421440" usercolor="false"/>
+	<connector id="114" selected="false" layer="16" x="-824.303829" y="-1220.224716" color="12599551" usercolor="false"/>
+	<connector id="115" selected="false" layer="16" x="-860.881596" y="-1518.052342" draw="true" color="2121760" usercolor="false"/>
+	<connector id="116" selected="false" layer="1" x="-1546.950761" y="-1625.423623" color="13158600" usercolor="false"/>
+	<connector id="117" selected="false" layer="1" x="-1404.290900" y="-966.038242" color="13158600" usercolor="false"/>
+	<connector id="118" selected="false" layer="1" x="-1511.811024" y="-1204.374072" color="13158600" usercolor="false"/>
+	<connector id="119" selected="false" layer="1" x="-1352.522415" y="-1358.989877" color="13158600" usercolor="false"/>
+	<connector id="51" selected="false" layer="16" x="-1762.431372" y="-1285.039371" anchor="true" color="11012476" usercolor="false"/>
+	<connector id="87" selected="false" layer="16" x="-1573.454994" y="-1285.039371" anchor="true" color="6324424" usercolor="false"/>
+	<connector id="88" selected="false" layer="16" x="-1384.478616" y="-1285.039371" anchor="true" color="8855748" usercolor="false"/>
+	<connector id="103" selected="false" layer="16" x="-1573.455118" y="-1133.858268" anchor="true" input="true" rpm="-20.000000" color="2146336" usercolor="false"/>
+	<connector id="50" selected="false" layer="1" x="-1588.619503" y="-2709.649880" color="13158600" usercolor="false"/>
+	<connector id="104" selected="false" layer="1" x="-1586.644975" y="-2104.698703" color="13158600" usercolor="false"/>
+	<connector id="105" selected="false" layer="1" x="-1324.052574" y="-2331.697125" color="13158600" usercolor="false"/>
+	<connector id="106" selected="false" layer="1" x="-1324.052574" y="-2709.649880" color="13158600" usercolor="false"/>
+	<connector id="120" selected="false" layer="16" x="-1323.750212" y="-2331.697125" anchor="true" input="true" rpm="-15.000000" color="8421440" usercolor="false"/>
+	<connector id="121" selected="false" layer="16" x="-1196.201281" y="-2250.538005" draw="true" color="12599551" usercolor="false"/>
+	<connector id="122" selected="false" layer="16" x="-1278.904514" y="-2331.698117" color="2121760" usercolor="false"/>
+	<connector id="123" selected="false" layer="16" x="-1290.454074" y="-2042.467864" color="6324424" usercolor="false"/>
+	<connector id="124" selected="false" layer="16" x="-1660.793810" y="-2117.944784" color="8855748" usercolor="false"/>
+	<connector id="125" selected="false" layer="16" x="-1586.342739" y="-2104.699695" anchor="true" color="13140032" usercolor="false"/>
+	<connector id="126" selected="false" layer="16" x="-1615.341124" y="-2342.052456" color="8405120" usercolor="false"/>
+	<connector id="127" selected="false" layer="16" x="-1602.731903" y="-2414.700546" color="6324288" usercolor="false"/>
+	<connector id="128" selected="false" layer="16" x="-1409.081909" y="-2643.914218" draw="true" color="16711680" usercolor="false"/>
+	<connector id="129" selected="false" layer="1" x="-1839.839815" y="-2671.587556" color="13158600" usercolor="false"/>
+	<connector id="130" selected="false" layer="1" x="-1161.061544" y="-2671.587556" color="13158600" usercolor="false"/>
+	<connector id="131" selected="false" layer="1" x="-1303.721405" y="-2012.202175" color="13158600" usercolor="false"/>
+	<connector id="132" selected="false" layer="1" x="-1196.201281" y="-2250.538005" color="13158600" usercolor="false"/>
+	<connector id="133" selected="false" layer="1" x="-1355.489890" y="-2405.153810" color="13158600" usercolor="false"/>
+	<connector id="134" selected="false" layer="1" x="-1588.316221" y="-2709.652023" color="13158600" usercolor="false"/>
+	<connector id="135" selected="false" layer="1" x="-1586.341693" y="-2104.700846" color="13158600" usercolor="false"/>
+	<connector id="136" selected="false" layer="1" x="-1323.749292" y="-2331.699268" color="13158600" usercolor="false"/>
+	<connector id="137" selected="false" layer="1" x="-1323.749292" y="-2709.652023" color="13158600" usercolor="false"/>
+	<connector id="138" selected="false" layer="16" x="-1323.749292" y="-2331.699268" anchor="true" input="true" rpm="-15.000000" color="12615935" usercolor="false"/>
+	<connector id="139" selected="false" layer="16" x="-1446.877001" y="-2419.422404" draw="true" color="2146336" usercolor="false"/>
+	<connector id="140" selected="false" layer="16" x="-1558.402186" y="-2387.975280" color="223719" usercolor="false"/>
+	<connector id="141" selected="false" layer="16" x="-1313.137899" y="-2234.245124" color="13123648" usercolor="false"/>
+	<connector id="142" selected="false" layer="16" x="-1653.625329" y="-2070.182347" color="4243584" usercolor="false"/>
+	<connector id="143" selected="false" layer="16" x="-1586.342739" y="-2104.699695" anchor="true" color="8421440" usercolor="false"/>
+	<connector id="144" selected="false" layer="16" x="-1826.594905" y="-2219.754139" color="12599551" usercolor="false"/>
+	<connector id="145" selected="false" layer="16" x="-1883.708476" y="-2266.388649" color="2121760" usercolor="false"/>
+	<connector id="146" selected="false" layer="16" x="-1847.130709" y="-2564.216275" draw="true" color="6324424" usercolor="false"/>
+	<connector id="147" selected="false" layer="1" x="-1161.061544" y="-2671.587556" color="13158600" usercolor="false"/>
+	<connector id="148" selected="false" layer="1" x="-1303.721405" y="-2012.202175" color="13158600" usercolor="false"/>
+	<connector id="149" selected="false" layer="1" x="-1196.201281" y="-2250.538005" color="13158600" usercolor="false"/>
+	<connector id="150" selected="false" layer="1" x="-1355.489890" y="-2405.153810" color="13158600" usercolor="false"/>
+	<Link id="1" selected="false" layer="16" linesize="1" solid="true" shapetype="hull" color="12632064" usercolor="false">
+		<connector id="1"/>
+		<connector id="2"/>
+	</Link>
+	<Link id="0" selected="false" layer="16" linesize="1" solid="true" shapetype="hull" color="16711680" usercolor="false">
+		<connector id="4"/>
+		<connector id="5"/>
+	</Link>
+	<Link id="2" selected="false" layer="16" linesize="1" solid="true" shapetype="hull" color="32768" usercolor="false">
+		<connector id="2"/>
+		<connector id="5"/>
+	</Link>
+	<Link id="3" selected="false" layer="16" linesize="1" shapetype="hull" color="16711808" usercolor="false">
+		<connector id="0"/>
+		<connector id="3"/>
+	</Link>
+	<Link id="4" selected="false" layer="16" linesize="1" shapetype="hull" color="6854344" usercolor="false">
+		<connector id="6"/>
+		<connector id="7"/>
+	</Link>
+	<Link id="5" selected="false" layer="16" linesize="1" shapetype="hull" color="11012476" usercolor="false">
+		<connector id="9"/>
+		<connector id="3"/>
+	</Link>
+	<Link id="6" selected="false" layer="16" linesize="1" shapetype="hull" gear="true" color="16744448" usercolor="false">
+		<connector id="8"/>
+	</Link>
+	<Link id="7" selected="false" layer="16" linesize="1" shapetype="hull" gear="true" color="13123648" usercolor="false">
+		<connector id="10"/>
+	</Link>
+	<Link id="8" selected="false" layer="16" linesize="1" shapetype="hull" gear="true" color="8439808" usercolor="false">
+		<connector id="11"/>
+	</Link>
+	<Link id="9" selected="false" layer="16" linesize="1" shapetype="hull" gear="true" color="13123282" usercolor="false">
+		<connector id="12"/>
+	</Link>
+	<Link id="10" selected="false" layer="16" linesize="1" shapetype="hull" gear="true" color="12615935" usercolor="false">
+		<connector id="13"/>
+	</Link>
+	<Link id="11" selected="false" layer="16" linesize="1" shapetype="hull" gear="true" color="2146336" usercolor="false">
+		<connector id="14"/>
+	</Link>
+	<Link id="12" selected="false" layer="1" linesize="1" shapetype="polygon" color="13158600" usercolor="false">
+		<connector id="17"/>
+		<connector id="18"/>
+		<connector id="19"/>
+		<connector id="20"/>
+	</Link>
+	<Link id="13" selected="false" layer="16" linesize="1" shapetype="hull" color="13123648" usercolor="false">
+		<connector id="15"/>
+		<connector id="16"/>
+	</Link>
+	<Link id="14" selected="false" layer="16" linesize="1" shapetype="hull" color="4243584" usercolor="false">
+		<connector id="26"/>
+		<connector id="16"/>
+		<connector id="23"/>
+	</Link>
+	<Link id="16" selected="false" layer="16" linesize="1" shapetype="hull" color="12599551" usercolor="false">
+		<connector id="23"/>
+		<connector id="25"/>
+		<connector id="30"/>
+	</Link>
+	<Link id="17" selected="false" layer="16" linesize="1" shapetype="hull" color="2121760" usercolor="false">
+		<connector id="32"/>
+		<connector id="33"/>
+		<connector id="25"/>
+	</Link>
+	<Link id="18" selected="false" layer="16" linesize="1" shapetype="hull" color="6324424" usercolor="false">
+		<connector id="32"/>
+		<connector id="16"/>
+	</Link>
+	<Link id="19" selected="false" layer="16" linesize="1" shapetype="hull" color="8855748" usercolor="false">
+		<connector id="33"/>
+		<connector id="35"/>
+	</Link>
+	<Link id="20" selected="false" layer="16" linesize="1" shapetype="hull" color="13140032" usercolor="false">
+		<connector id="35"/>
+		<connector id="26"/>
+	</Link>
+	<Link id="15" selected="false" layer="1" linesize="1" shapetype="polygon" color="13158600" usercolor="false">
+		<connector id="21"/>
+		<connector id="22"/>
+	</Link>
+	<Link id="21" selected="false" layer="1" linesize="1" measurementelement="true" measurementuseoffset="false" shapetype="polyline" showangles="true" color="13158600" usercolor="false">
+		<connector id="24"/>
+		<connector id="27"/>
+		<connector id="28"/>
+	</Link>
+	<Link id="22" selected="false" layer="1" linesize="1" shapetype="polygon" color="13158600" usercolor="false">
+		<connector id="29"/>
+		<connector id="31"/>
+		<connector id="34"/>
+		<connector id="36"/>
+	</Link>
+	<Link id="23" selected="false" layer="16" linesize="1" shapetype="hull" color="223719" usercolor="false">
+		<connector id="37"/>
+		<connector id="38"/>
+	</Link>
+	<Link id="24" selected="false" layer="16" linesize="1" shapetype="hull" color="13123648" usercolor="false">
+		<connector id="39"/>
+		<connector id="38"/>
+		<connector id="40"/>
+	</Link>
+	<Link id="25" selected="false" layer="16" linesize="1" shapetype="hull" color="8421440" usercolor="false">
+		<connector id="40"/>
+		<connector id="41"/>
+		<connector id="42"/>
+	</Link>
+	<Link id="26" selected="false" layer="16" linesize="1" shapetype="hull" color="12599551" usercolor="false">
+		<connector id="43"/>
+		<connector id="44"/>
+		<connector id="41"/>
+	</Link>
+	<Link id="27" selected="false" layer="16" linesize="1" shapetype="hull" color="2121760" usercolor="false">
+		<connector id="43"/>
+		<connector id="38"/>
+	</Link>
+	<Link id="28" selected="false" layer="16" linesize="1" shapetype="hull" color="6324424" usercolor="false">
+		<connector id="44"/>
+		<connector id="45"/>
+	</Link>
+	<Link id="29" selected="false" layer="16" linesize="1" shapetype="hull" color="8855748" usercolor="false">
+		<connector id="45"/>
+		<connector id="39"/>
+	</Link>
+	<Link id="30" selected="false" layer="1" linesize="1" shapetype="polygon" color="13158600" usercolor="false">
+		<connector id="46"/>
+	</Link>
+	<Link id="31" selected="false" layer="1" linesize="1" measurementelement="true" measurementuseoffset="false" shapetype="polyline" showangles="true" color="13158600" usercolor="false">
+		<connector id="47"/>
+		<connector id="48"/>
+		<connector id="49"/>
+	</Link>
+	<Link id="32" selected="false" layer="1" linesize="1" shapetype="polygon" color="13158600" usercolor="false">
+		<connector id="52"/>
+		<connector id="53"/>
+		<connector id="54"/>
+		<connector id="55"/>
+	</Link>
+	<Link id="34" selected="false" layer="16" linesize="1" shapetype="hull" color="12632064" usercolor="false">
+		<connector id="58"/>
+		<connector id="57"/>
+		<connector id="59"/>
+	</Link>
+	<Link id="35" selected="false" layer="16" linesize="1" shapetype="hull" color="16711808" usercolor="false">
+		<connector id="59"/>
+		<connector id="60"/>
+		<connector id="61"/>
+	</Link>
+	<Link id="36" selected="false" layer="16" linesize="1" shapetype="hull" color="6854344" usercolor="false">
+		<connector id="62"/>
+		<connector id="63"/>
+		<connector id="60"/>
+	</Link>
+	<Link id="37" selected="false" layer="16" linesize="1" shapetype="hull" color="11012476" usercolor="false">
+		<connector id="62"/>
+		<connector id="57"/>
+	</Link>
+	<Link id="38" selected="false" layer="16" linesize="1" shapetype="hull" color="16744448" usercolor="false">
+		<connector id="63"/>
+		<connector id="64"/>
+	</Link>
+	<Link id="39" selected="false" layer="16" linesize="1" shapetype="hull" color="11272364" usercolor="false">
+		<connector id="64"/>
+		<connector id="58"/>
+	</Link>
+	<Link id="40" selected="false" layer="1" linesize="1" shapetype="polygon" color="13158600" usercolor="false">
+		<connector id="65"/>
+		<connector id="66"/>
+	</Link>
+	<Link id="41" selected="false" layer="1" linesize="1" measurementelement="true" measurementuseoffset="false" shapetype="polyline" showangles="true" color="13158600" usercolor="false">
+		<connector id="67"/>
+		<connector id="68"/>
+		<connector id="69"/>
+	</Link>
+	<Link id="42" selected="false" layer="1" linesize="1" shapetype="polygon" color="13158600" usercolor="false">
+		<connector id="70"/>
+		<connector id="71"/>
+		<connector id="72"/>
+		<connector id="73"/>
+	</Link>
+	<Link id="44" selected="false" layer="16" linesize="1" shapetype="hull" color="2146336" usercolor="false">
+		<connector id="76"/>
+		<connector id="75"/>
+		<connector id="77"/>
+	</Link>
+	<Link id="45" selected="false" layer="16" linesize="1" shapetype="hull" color="223719" usercolor="false">
+		<connector id="77"/>
+		<connector id="78"/>
+		<connector id="79"/>
+	</Link>
+	<Link id="46" selected="false" layer="16" linesize="1" shapetype="hull" color="13123648" usercolor="false">
+		<connector id="80"/>
+		<connector id="81"/>
+		<connector id="78"/>
+	</Link>
+	<Link id="47" selected="false" layer="16" linesize="1" shapetype="hull" color="4243584" usercolor="false">
+		<connector id="80"/>
+		<connector id="75"/>
+	</Link>
+	<Link id="48" selected="false" layer="16" linesize="1" shapetype="hull" color="8421440" usercolor="false">
+		<connector id="81"/>
+		<connector id="82"/>
+	</Link>
+	<Link id="49" selected="false" layer="16" linesize="1" shapetype="hull" color="12599551" usercolor="false">
+		<connector id="82"/>
+		<connector id="76"/>
+	</Link>
+	<Link id="50" selected="false" layer="1" linesize="1" shapetype="polygon" color="13158600" usercolor="false">
+		<connector id="83"/>
+	</Link>
+	<Link id="51" selected="false" layer="1" linesize="1" measurementelement="true" measurementuseoffset="false" shapetype="polyline" showangles="true" color="13158600" usercolor="false">
+		<connector id="84"/>
+		<connector id="85"/>
+		<connector id="86"/>
+	</Link>
+	<Link id="54" selected="false" layer="16" linesize="1" shapetype="hull" color="13140032" usercolor="false">
+		<connector id="91"/>
+		<connector id="90"/>
+		<connector id="92"/>
+	</Link>
+	<Link id="55" selected="false" layer="16" linesize="1" shapetype="hull" color="6324288" usercolor="false">
+		<connector id="92"/>
+		<connector id="93"/>
+		<connector id="94"/>
+	</Link>
+	<Link id="56" selected="false" layer="16" linesize="1" shapetype="hull" color="16711680" usercolor="false">
+		<connector id="95"/>
+		<connector id="96"/>
+		<connector id="93"/>
+	</Link>
+	<Link id="57" selected="false" layer="16" linesize="1" shapetype="hull" color="12632064" usercolor="false">
+		<connector id="95"/>
+		<connector id="90"/>
+	</Link>
+	<Link id="58" selected="false" layer="16" linesize="1" shapetype="hull" color="32768" usercolor="false">
+		<connector id="96"/>
+		<connector id="97"/>
+	</Link>
+	<Link id="59" selected="false" layer="16" linesize="1" shapetype="hull" color="16711808" usercolor="false">
+		<connector id="97"/>
+		<connector id="91"/>
+	</Link>
+	<Link id="60" selected="false" layer="1" linesize="1" shapetype="polygon" color="13158600" usercolor="false">
+		<connector id="98"/>
+		<connector id="99"/>
+	</Link>
+	<Link id="61" selected="false" layer="1" linesize="1" measurementelement="true" measurementuseoffset="false" shapetype="polyline" showangles="true" color="13158600" usercolor="false">
+		<connector id="100"/>
+		<connector id="101"/>
+		<connector id="102"/>
+	</Link>
+	<Link id="64" selected="false" layer="16" linesize="1" shapetype="hull" color="11272364" usercolor="false">
+		<connector id="109"/>
+		<connector id="108"/>
+		<connector id="110"/>
+	</Link>
+	<Link id="65" selected="false" layer="16" linesize="1" shapetype="hull" color="8439808" usercolor="false">
+		<connector id="110"/>
+		<connector id="111"/>
+		<connector id="112"/>
+	</Link>
+	<Link id="66" selected="false" layer="16" linesize="1" shapetype="hull" color="13123282" usercolor="false">
+		<connector id="113"/>
+		<connector id="114"/>
+		<connector id="111"/>
+	</Link>
+	<Link id="67" selected="false" layer="16" linesize="1" shapetype="hull" color="12615935" usercolor="false">
+		<connector id="113"/>
+		<connector id="108"/>
+	</Link>
+	<Link id="68" selected="false" layer="16" linesize="1" shapetype="hull" color="2146336" usercolor="false">
+		<connector id="114"/>
+		<connector id="115"/>
+	</Link>
+	<Link id="69" selected="false" layer="16" linesize="1" shapetype="hull" color="223719" usercolor="false">
+		<connector id="115"/>
+		<connector id="109"/>
+	</Link>
+	<Link id="70" selected="false" layer="1" linesize="1" shapetype="polygon" color="13158600" usercolor="false">
+		<connector id="116"/>
+	</Link>
+	<Link id="71" selected="false" layer="1" linesize="1" measurementelement="true" measurementuseoffset="false" shapetype="polyline" showangles="true" color="13158600" usercolor="false">
+		<connector id="117"/>
+		<connector id="118"/>
+		<connector id="119"/>
+	</Link>
+	<Link id="62" selected="false" layer="16" linesize="1" shapetype="hull" gear="true" color="12599551" usercolor="false">
+		<connector id="103"/>
+	</Link>
+	<Link id="72" selected="false" layer="16" linesize="1" shapetype="hull" gear="true" color="8855748" usercolor="false">
+		<connector id="51"/>
+	</Link>
+	<Link id="73" selected="false" layer="16" linesize="1" shapetype="hull" gear="true" color="13140032" usercolor="false">
+		<connector id="87"/>
+	</Link>
+	<Link id="74" selected="false" layer="16" linesize="1" shapetype="hull" gear="true" color="8405120" usercolor="false">
+		<connector id="88"/>
+	</Link>
+	<Link id="52" selected="false" layer="1" linesize="1" shapetype="polygon" color="13158600" usercolor="false">
+		<connector id="50"/>
+		<connector id="104"/>
+		<connector id="105"/>
+		<connector id="106"/>
+	</Link>
+	<Link id="75" selected="false" layer="16" linesize="1" shapetype="hull" color="12599551" usercolor="false">
+		<connector id="120"/>
+		<connector id="121"/>
+	</Link>
+	<Link id="76" selected="false" layer="16" linesize="1" shapetype="hull" color="2121760" usercolor="false">
+		<connector id="122"/>
+		<connector id="121"/>
+		<connector id="123"/>
+	</Link>
+	<Link id="77" selected="false" layer="16" linesize="1" shapetype="hull" color="6324424" usercolor="false">
+		<connector id="123"/>
+		<connector id="124"/>
+		<connector id="125"/>
+	</Link>
+	<Link id="78" selected="false" layer="16" linesize="1" shapetype="hull" color="8855748" usercolor="false">
+		<connector id="126"/>
+		<connector id="127"/>
+		<connector id="124"/>
+	</Link>
+	<Link id="79" selected="false" layer="16" linesize="1" shapetype="hull" color="13140032" usercolor="false">
+		<connector id="126"/>
+		<connector id="121"/>
+	</Link>
+	<Link id="80" selected="false" layer="16" linesize="1" shapetype="hull" color="8405120" usercolor="false">
+		<connector id="127"/>
+		<connector id="128"/>
+	</Link>
+	<Link id="81" selected="false" layer="16" linesize="1" shapetype="hull" color="6324288" usercolor="false">
+		<connector id="128"/>
+		<connector id="122"/>
+	</Link>
+	<Link id="82" selected="false" layer="1" linesize="1" shapetype="polygon" color="13158600" usercolor="false">
+		<connector id="129"/>
+		<connector id="130"/>
+	</Link>
+	<Link id="83" selected="false" layer="1" linesize="1" measurementelement="true" measurementuseoffset="false" shapetype="polyline" showangles="true" color="13158600" usercolor="false">
+		<connector id="131"/>
+		<connector id="132"/>
+		<connector id="133"/>
+	</Link>
+	<Link id="84" selected="false" layer="1" linesize="1" shapetype="polygon" color="13158600" usercolor="false">
+		<connector id="134"/>
+		<connector id="135"/>
+		<connector id="136"/>
+		<connector id="137"/>
+	</Link>
+	<Link id="85" selected="false" layer="16" linesize="1" shapetype="hull" color="16711808" usercolor="false">
+		<connector id="138"/>
+		<connector id="139"/>
+	</Link>
+	<Link id="86" selected="false" layer="16" linesize="1" shapetype="hull" color="6854344" usercolor="false">
+		<connector id="140"/>
+		<connector id="139"/>
+		<connector id="141"/>
+	</Link>
+	<Link id="87" selected="false" layer="16" linesize="1" shapetype="hull" color="11012476" usercolor="false">
+		<connector id="141"/>
+		<connector id="142"/>
+		<connector id="143"/>
+	</Link>
+	<Link id="88" selected="false" layer="16" linesize="1" shapetype="hull" color="16744448" usercolor="false">
+		<connector id="144"/>
+		<connector id="145"/>
+		<connector id="142"/>
+	</Link>
+	<Link id="89" selected="false" layer="16" linesize="1" shapetype="hull" color="11272364" usercolor="false">
+		<connector id="144"/>
+		<connector id="139"/>
+	</Link>
+	<Link id="90" selected="false" layer="16" linesize="1" shapetype="hull" color="8439808" usercolor="false">
+		<connector id="145"/>
+		<connector id="146"/>
+	</Link>
+	<Link id="91" selected="false" layer="16" linesize="1" shapetype="hull" color="13123282" usercolor="false">
+		<connector id="146"/>
+		<connector id="140"/>
+	</Link>
+	<Link id="92" selected="false" layer="1" linesize="1" shapetype="polygon" color="13158600" usercolor="false">
+		<connector id="147"/>
+	</Link>
+	<Link id="93" selected="false" layer="1" linesize="1" measurementelement="true" measurementuseoffset="false" shapetype="polyline" showangles="true" color="13158600" usercolor="false">
+		<connector id="148"/>
+		<connector id="149"/>
+		<connector id="150"/>
+	</Link>
+	<Link id="94" selected="false" layer="16" linesize="1" shapetype="hull" fastenlink="72" color="32768" usercolor="false">
+		<connector id="51"/>
+		<connector id="75"/>
+		<connector id="57"/>
+	</Link>
+	<Link id="33" selected="false" layer="16" linesize="1" shapetype="hull" fastenlink="74" color="12615935" usercolor="false">
+		<connector id="88"/>
+		<connector id="90"/>
+		<connector id="108"/>
+	</Link>
+	<selected>
+	</selected>
+	<ratios>
+		<ratio type="gears" sizeassize="false" internal="false">
+			<link id="7" size="1.000000"/>
+			<link id="6" size="1.000000"/>
+		</ratio>
+		<ratio type="chain" sizeassize="false" internal="false">
+			<link id="8" size="2.000000"/>
+			<link id="9" size="1.000000"/>
+		</ratio>
+		<ratio type="gears" sizeassize="false" internal="true">
+			<link id="10" size="3.000000"/>
+			<link id="11" size="1.000000"/>
+		</ratio>
+		<ratio type="gears" sizeassize="false" internal="false">
+			<link id="72" size="1.000000"/>
+			<link id="73" size="1.000000"/>
+		</ratio>
+		<ratio type="gears" sizeassize="false" internal="false">
+			<link id="73" size="1.000000"/>
+			<link id="74" size="1.000000"/>
+		</ratio>
+		<ratio type="gears" sizeassize="false" internal="false">
+			<link id="62" size="2.000000"/>
+			<link id="73" size="3.000000"/>
+		</ratio>
+	</ratios>
+	<background></background>
+</linkage2>
